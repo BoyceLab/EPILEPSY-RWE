@@ -1,4 +1,4 @@
-#  Release Notes: Version 0.1.0
+#  Exemplar Epilepsy OMOP Database: CANOE Registry OMOP Instance Release Notes: Version 0.1.0
 
 **The first release of the University of Calgary CANOE Registry OMOP instance will be released in late 2025.  This site will house complete documentation and sample ETL code.  Meanwhile, we will share project background and other information.**
 
