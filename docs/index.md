@@ -14,7 +14,8 @@ We invite clinicians, researchers, and data scientists to use these materials as
 
 ---
 
-- [New to RWE? Start Here](free-rwe-resources.md)  
+- [New to RWE? Start Here](free-rwe-resources.md)
+- [Protocol](protocol.md)
 - [Epilepsy OMOP Data Set](epilepsy-omop-data-set.md)  
 - [STARDUSTT Approach](stardustt-approach.md)  
 - [OMOP/OHDSI Resources](omop-ohdsi-resources.md)  
