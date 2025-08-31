@@ -12,13 +12,19 @@ This project is an initiative of the **[International League Against Epilepsy (I
 
 We invite clinicians, researchers, and data scientists to use these materials as a foundation for further studies and to join the effort of advancing data-driven epilepsy research.  
 
+!!! info "OHDSI Train the Trainer (Epilepsy)"
+    Access our interactive **Train the Trainer** program here (UNDER CONSTRUCTION):  
+    [Open the OHDSI Train the Trainer site →](https://boycelab.github.io/OHDSITrainTheTrainer-EPILEPSY/)
+
+
 ---
 
 - [New to RWE? Start Here](free-rwe-resources.md)
 - [Protocol](protocol.md)
 - [Epilepsy OMOP Data Set](epilepsy-omop-data-set.md)  
 - [STARDUSTT Approach](stardustt-approach.md)  
-- [OMOP/OHDSI Resources](omop-ohdsi-resources.md)  
+- [OMOP/OHDSI Resources](omop-ohdsi-resources.md)
+- [Train the Trainer/Under Construction](train-the-trainer.md)
 - [Select Publications](select-publications.md)  
 - [Authors](authors.md)  
 
