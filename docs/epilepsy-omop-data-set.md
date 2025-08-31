@@ -29,8 +29,11 @@ We assembled a multidisciplinary team that included epilepsy specialist physicia
 
 We implemented an OMOP Extract, Transform, Load (ETL) process with OMOP CDM version 5.37 employing Usagi software⁸ for vocabulary mappings and a PostgreSQL database. Programming was performed in Python and SQL. Atlas software was installed at the University of Calgary CRU.  
 
-**Figure 1: CANOE Registry ETL Process**  
-![CANOE Registry ETL Process](docs/images/CANOEimage.jpg)  
+<figure>
+  <img src="images/CANOEimage.jpg" alt="CANOE Registry ETL Process">
+  <figcaption><strong>Figure 1.</strong> CANOE Registry ETL Process</figcaption>
+</figure>
+ 
 
 ---
 
