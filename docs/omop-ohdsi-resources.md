@@ -251,45 +251,6 @@ The OMOP common data model (CDM) is a relational database made up of different t
 R, SQL, Python, or any preferred data analysis software.  
 **Reference:** [The Book of OHDSI — Chapter 9: SQL and R](https://ohdsi.github.io/TheBookOfOhdsi/SqlAndR.html)
 
-
-
----
-
-## 📘 Data Science Handbook
-
-[Open, rigorous and reproducible research: A practitioner’s handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook) — Stanford Data Science
-
----
-
-## 🧰 Data Management Tools & Resources
-
-- DMP Tool:  https://dmptool.org/  
-- NIH DMS Policy Planning: https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after
-
----
-
-## 💻 Programming Resources (Jupyter, Python, SQL, R)
-
-- [Project Jupyter](https://jupyter.org/)
-- [What is the Jupyter Notebook?](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
-- [NIAID NIH Informatics resources](https://bioinformatics.niaid.nih.gov/resources)
-
-**Software Carpentry (free lessons):**
-- [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
-- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
-- [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
-
-**Additional resources:**
-- [DataCamp](http://www.datacamp.com/)
-- [Khan Academy — SQL Basics](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
-- [Codecademy — Learn Python 2](https://www.codecademy.com/learn/learn-python)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- NIH “All of Us” documentation:  
-  [Jupyter & programming](https://support.researchallofus.org/hc/en-us/articles/360039690191-Jupyter-Notebooks-and-programming)
-
-
-
 ---
 
 ## 🌐 OHDSI Resources
