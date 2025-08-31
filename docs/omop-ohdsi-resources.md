@@ -259,8 +259,6 @@ R, SQL, Python, or any preferred data analysis software.
 
 [Open, rigorous and reproducible research: A practitioner’s handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook) — Stanford Data Science
 
-
-
 ---
 
 ## 🧰 Data Management Tools & Resources
@@ -312,8 +310,6 @@ R, SQL, Python, or any preferred data analysis software.
 - [Subscribe to the OHDSI Newsletter](https://ohdsi.org/subscribe-to-our-newsletter/)  
 - [OHDSI software](https://ohdsi.org/software-tools/)  
 - [NIH All of Us — OMOP documentation](https://support.researchallofus.org/hc/en-us/articles/360039585391-How-the-Observational-Medical-Outcomes-Partnership-OMOP-vocabulary-are-structured)
-
-
 
 ---
 
