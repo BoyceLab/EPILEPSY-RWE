@@ -1,9 +1,6 @@
 ---
-title: New to RWE Start Here
-hide:
-  - title
+title: New to RWE? Start Here
 ---
-
 
 These curated, freely accessible resources provide foundational knowledge, practical examples, and step-by-step instructions for navigating real world evidence:
 
