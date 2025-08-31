@@ -33,7 +33,6 @@ We implemented an OMOP Extract, Transform, Load (ETL) process with OMOP CDM vers
   <img src="assets/CANOEimage.png" alt="CANOE Registry ETL Process" style="max-width: 900px; width: 100%; height: auto;">
   <figcaption><strong>Figure 1.</strong> CANOE Registry ETL Process</figcaption>
 </figure>
-
 ---
 
 ## Results  
