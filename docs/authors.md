@@ -1,10 +1,4 @@
 # Authors
 
-This guide was developed by:
-
-- Danielle Boyce, MPH, DPA, Principal Investigator, Real World Evidence
-- Hannah Walters, MPH, DrPH, Postdoctoral Researcher, Real World Evidence
-- Alan Premasiri, MS, Director of Clinical Operations
-- Fernando Vieira, MD, Chief Executive Officer/Chief Scientific Officer
-
-ALS Therapy Development Institute
+This guide was developed by Danielle Boyce, MPH, DPA, based on ALS Therapy Development Institute's [ALS-RWE](https://alstdi.github.io/ALS-RWE/) 
+  
