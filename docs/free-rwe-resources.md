@@ -1,5 +1,5 @@
 ---
-title: New to RWE? Start Here: Free RWE Resources
+title: New to RWE Start Here
 hide:
   - title
 ---
