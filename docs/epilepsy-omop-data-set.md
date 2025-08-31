@@ -76,22 +76,18 @@ Our future plans include publishing our technical documentation on GitHub, conti
 
 
 
-ALS TDI ARC Study, mapped to the Observational Medical Outcomes Partnership Common Data Model (OMOP CDM), restructures a subset of the ARC Natural History Study into the OMOP CDM structure and maps a subset to standardized vocabularies.
-
-> Note about EHR data: We are actively working to include electronic health record (EHR) data in future releases.
-
 ###  Complete Data Set and Documentation
-Neuromine Data Portal
+Location
 
 ###  CDM Version
 - OMOP CDM v5.4
 
 ###  Participant Summary
-- Total participants: 1,665
-- People with ALS, Asymptomatic carriers, Healthy controls
+- Total participants: XXX
+- People with epilepsy, XXX
 
 ###  Domain Mappings
-Includes Person, Observation (including ALSFRS-R), Measurement (lab results), Drug Exposure, Mortality, etc.
+Includes Person, Observation (including XXX), Measurement (lab results), Drug Exposure, Mortality, etc.
 
 ###  Dates and Timing
 Dates may be shifted for de-identification.
@@ -100,7 +96,7 @@ Dates may be shifted for de-identification.
 Not all participants have complete data.
 
 ##  Custom Concepts
-Some ALS-specific variables lacked standardized OMOP vocabularies; custom/local concepts were created.
+Some epilepsy-specific variables lacked standardized OMOP vocabularies; custom/local concepts were created.
 
 ##  CDM Summary Counts
-(See original for detailed table.)
+(XXX Detailed Table)
