@@ -24,3 +24,5 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+extra_css:
+  - assets/custom.css
