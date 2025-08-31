@@ -1,5 +1,5 @@
 /* Make the logo bigger in the header */
 .md-header__button.md-logo img {
-  height: 60px;   /* adjust as needed */
+  height: 90px;   /* adjust as needed */
   width: auto;
 }
