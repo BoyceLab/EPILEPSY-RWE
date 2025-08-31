@@ -19,3 +19,8 @@ plugins:
 markdown_extensions:
   - md_in_html     # enables Markdown inside HTML blocks (not required here, but handy)
   - attr_list      # lets you use { } attributes on images/elements
+markdown_extensions:
+  - meta          # parse YAML front matter
+  - admonition
+  - attr_list
+  - md_in_html
