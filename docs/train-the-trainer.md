@@ -1,4 +1,4 @@
-# OHDSI Train the Trainer (Epilepsy)
+# OHDSI Train the Trainer (Epilepsy)-UNDER CONSTRUCTION
 
 Below is the embedded **Train the Trainer** program:
 
