@@ -25,10 +25,9 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Install dependencies and build
         run: |
           pip install -r requirements.txt
-          # If you don't need strict link checking, omit --strict below
           mkdocs build --site-dir site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
