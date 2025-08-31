@@ -9,6 +9,7 @@ theme:
 nav:
   - Home: index.md
   - New to RWE? Start Here: free-rwe-resources.md
+  - Protocol:  protocol.md
   - Epilepsy OMOP Data Set: epilepsy-omop-data-set.md
   - STARDUSTT Approach: stardustt-approach.md
   - OMOP/OHDSI Resources: omop-ohdsi-resources.md
