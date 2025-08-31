@@ -19,3 +19,8 @@ A comprehensive review by the ILAE Big Data Commission aimed at demystifying how
 **Kim, H.** *et al.* (2020). Analyzes pediatric epilepsy antiseizure medication treatment pathways using the OMOP CDM based on EHR data. Supports feasibility and applicability of CDM for pediatric epilepsy research.  
 📖 [Read the article](https://pubmed.ncbi.nlm.nih.gov/32477256/)
 
+## Community Contributions
+
+### Submission: Drug-Resistant Epilepsy Phenotype to OHDSI Phenotype Library  
+**Spotnitz, M.** (2022). Submission of the drug-resistant epilepsy phenotype—recently published in *Epilepsia* and showcased at OHDSI Symposium 2022—for peer review within the OHDSI Phenotype Library. This computable phenotype was developed using the OMOP Common Data Model (CDM) to systematically identify patients at Columbia University Irving Medical Center (CUIMC) meeting consensus criteria for drug-resistant epilepsy (failure of two or more appropriate medication regimens). The submission included a detailed clinical description, phenotype logic, and aims to contribute a reusable cohort definition to the open-science community.  
+📖 [OHDSI Forum Post](https://forums.ohdsi.org/t/phenotype-submission-drug-resistant-epilepsy/17569)  
