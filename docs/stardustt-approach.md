@@ -6,7 +6,7 @@ hide:
 
 ## 🎥 Presentation
 
-Watch Dr. Danielle Boyce, mother of a child with infantile spasms, present **STARDUSTT-ALS** — a new approach to capturing, managing, and analyzing “big data” in natural history studies.  
+Watch data scientist and clinical informatician Dr. Danielle Boyce, a mother of a child with infantile spasms, present **STARDUSTT-ALS** — an approachto capturing, managing, and analyzing “big data” in natural history studies inspired by her lived experience.  
 [![Presentation](https://img.youtube.com/vi/9h89iHEiIPs/0.jpg)](https://youtu.be/9h89iHEiIPs?feature=shared)
 
 ---
